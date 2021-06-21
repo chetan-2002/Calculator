@@ -10,4 +10,6 @@ A simple, fully functioning calculator with a nice ui based on html ,css and jav
 
 ![image](https://user-images.githubusercontent.com/77783033/122799242-1c57fb00-d2df-11eb-8a57-aade55f35f73.png)
 
-![image](https://user-images.githubusercontent.com/77783033/122799315-3265bb80-d2df-11eb-93fc-0a92f06832d0.png)_
+![image](https://user-images.githubusercontent.com/77783033/122799315-3265bb80-d2df-11eb-93fc-0a92f06832d0.png)
+
+Wanna try the calculator ,head over to https://chetan-2002.github.io/Calculator/
